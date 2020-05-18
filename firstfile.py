@@ -1,3 +1,4 @@
-def sum(a,b):
+#add function
+def add(a,b):
     return(a+b)
-print(sum(4,9))
+print(add(4,9))
